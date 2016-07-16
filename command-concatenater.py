@@ -48,7 +48,6 @@ elif clearchoice == '3':
 else:
   command_numb -= 1
 
-
 master = '/summon FallingSand ~ ~1 ~ {Time:1,Block:command_block,TileEntityData:{auto:1,Command:"'
 
 for command in commands:
