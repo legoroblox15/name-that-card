@@ -5,8 +5,8 @@ What did you do last week?
 
 What will you do next week?
 
-- I will work on understanding Python classes so I can classify each card.
+- Work on the interface.
 
 Do you have any blockers?
 
-- Not knowing how to make classes in Python.
+- No.
