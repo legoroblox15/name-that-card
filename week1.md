@@ -1,11 +1,11 @@
-As of 5:30 PM, Saturday, July 02, 2016
+As of 5:30 PM, Saturday, July 09, 2016
 What did you do last week?
 
-- I didn't have Skilstak class last week because this is the first class.
+- I decided my project.
 
 What will you do next week?
 
-- Work on the interface.
+- Work on the algorithm for combining all of the commands.
 
 Do you have any blockers?
 
